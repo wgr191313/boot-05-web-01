@@ -1,0 +1,10 @@
+#spring:
+##  mvc:
+##    static-path-pattern: /res/**
+#  web:
+#    resources:
+#      static-locations: [classpath:/haha/]
+
+server:
+  servlet:
+    context-path: /world
